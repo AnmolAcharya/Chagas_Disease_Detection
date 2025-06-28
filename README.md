@@ -1,4 +1,4 @@
-###🧬 AI-Powered Parasite Detection System for Chagas Disease
+##🧬 AI-Powered Parasite Detection System for Chagas Disease
 
 ## MVP Demo: Coming Soon.....
 
@@ -7,6 +7,9 @@ An **AI-powered diagnostic tool** for detecting *Trypanosoma cruzi* parasites in
 ---
 
 ![Parasites](https://github.com/user-attachments/assets/cdaaea9c-7892-42bf-a2c6-2eb796bfae90)
+
+![image](https://github.com/user-attachments/assets/c5b45e13-8b72-499b-98fe-e7353d1d9d21)
+
 
 ![Welcome Screen](https://github.com/user-attachments/assets/41e25561-bbc1-4ff4-8517-651076354735)
 
@@ -32,18 +35,18 @@ An **AI-powered diagnostic tool** for detecting *Trypanosoma cruzi* parasites in
 
 ## 🔎 Preview
 
-### 📤 Upload interface for submitting blood smear images
-### 🩸 Detection output highlighting parasite regions
-### 🔬 XAI heatmaps or feature importance explanations for enhanced interpretability
+###  Upload interface for submitting blood smear images
+###  Detection output highlighting parasite regions
+###  XAI heatmaps or feature importance explanations for enhanced interpretability
 
 ---
 
 ## 🛠️ Tech Stack
 
-### 💻 Frontend: React (Vite)
-### ⚙️ Backend: FastAPI with Uvicorn server
-### 🤖 AI Model: YOLOv8 (Ultralytics)
-### 🧠 XAI: Grad-CAM or similar techniques for explainability
-### 🏗️ Architecture: Modular and deployment-ready structure
+###  Frontend: React (Vite)
+###  Backend: FastAPI with Uvicorn server
+###  AI Model: YOLOv8 (Ultralytics)
+###  XAI: Grad-CAM or similar techniques for explainability
+###  Architecture: Modular and deployment-ready structure
 
 ---
