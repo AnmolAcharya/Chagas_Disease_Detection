@@ -1,8 +1,8 @@
-## 🧬 AI-Powered Parasite Detection System for Chagas Disease
+### 🧬 AI-Powered Parasite Detection System for Chagas Disease
 
-## MVP Demo: Coming Soon.....
+# MVP Demo: Coming Soon.....
 
-An **AI-powered diagnostic tool** for detecting *Trypanosoma cruzi* parasites in blood smear images, aimed at supporting early detection of Chagas disease.
+## An **AI-powered diagnostic tool** for detecting *Trypanosoma cruzi* parasites in blood smear images, aimed at supporting early detection of Chagas disease.
 
 
 ---
